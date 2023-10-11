@@ -10,7 +10,7 @@ I am a dedicated Web Developer, specializing in Front-End Development. With a sh
 
 - 📫 How to reach me **vj.janushankan1006@gmail.com**
 
-<img align="right" width="200" height="200" alt="codingwithJanu" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gif">
+<img align="right" width="180" height="180" alt="codingwithJanu" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vj_janu1006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vj_janu1006" height="30" width="40" /></a>
