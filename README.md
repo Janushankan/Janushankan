@@ -2,7 +2,11 @@
 
 <h3 align="left">A passionate front-end developer from Sri Lanka.</h3>
 
-I am a dedicated Web Developer, specializing in Front-End Development. With a sharp problem-solving acumen and excellent communication skills, I bring over two years of experience in crafting compelling Front-End solutions and collaborating on various projects. My unwavering passion lies in creating top-tier products through Front-End Development. I possess a strong foundation in Front-End technologies and a remarkable ability to swiftly adapt to new tools and technologies, ensuring my seamless contribution to your team.
+Final-year undergraduate pursuing a Bachelor of Science in Computer Science and Technology at Uva Wellassa University of Sri Lanka. Passionate about Front-End Development and Mobile App Development, with a strong focus on React Native and JavaScript frameworks.
+
+I have over two years of experience working with the MERN stack (MongoDB, Express, React, Node.js) and RESTful APIs to build scalable web and mobile applications. Skilled in HTML, CSS, JavaScript, React.js, and React Native, with a proven ability to solve complex problems and integrate backend services efficiently.
+
+Adaptable and always eager to learn new technologies, I am excited to collaborate on open-source projects and contribute to innovative solutions.
 
 - 🌱 I’m currently learning **Computer Science and Technology(CST) degree program at Uva Wellassa University of Sri Lanka.**
 
