@@ -14,6 +14,8 @@ Adaptable and always eager to learn new technologies, I am excited to collaborat
 
 - 📫 How to reach me **vj.janushankan1006@gmail.com**
 
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Janushankan&label=Profile%20views&color=17684f&style=flat" alt="janushankan" /> </p>
+
 <img align="right" width="180" height="180" alt="codingwithJanu" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
