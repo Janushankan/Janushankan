@@ -1,18 +1,14 @@
 <h1 align="left">Hi there👋, I'm Janushankan</h1>
 
-<h3 align="left">A passionate front-end developer from Sri Lanka.</h3>
+<h3 align="left">Software Engineer · Full Stack · React · Next.js · TypeScript · Node.js</h3>
 
-Final-year undergraduate pursuing a Bachelor of Science in Computer Science and Technology at Uva Wellassa University of Sri Lanka. Passionate about Front-End Development and Mobile App Development, with a strong focus on React Native and JavaScript frameworks.
+Software Engineer with 3+ years of experience building production-grade web applications for startups and product companies across Sri Lanka and the Middle East. I work across the full stack - React, Next.js, and TypeScript on the frontend; Node.js, Express, Laravel, and Django on the backend - and have shipped real products used by real users.
 
-I have over two years of experience working with the MERN stack (MongoDB, Express, React, Node.js) and RESTful APIs to build scalable web and mobile applications. Skilled in HTML, CSS, JavaScript, React.js, and React Native, with a proven ability to solve complex problems and integrate backend services efficiently.
+- 🎓 BSc (Hons) Computer Science & Technology — Uva Wellassa University of Sri Lanka
 
-Adaptable and always eager to learn new technologies, I am excited to collaborate on open-source projects and contribute to innovative solutions.
+- 💬 Ask me about **React, Next.js, TypeScript, Node.js, Laravel, WebSockets, performance optimization**
 
-- 🌱 I’m currently learning **Computer Science and Technology(CST) degree program at Uva Wellassa University of Sri Lanka.**
-
-- 💬 Ask me about **React, HTML, CSS, JS, Bootstrap.**
-
-- 📫 How to reach me **vj.janushankan1006@gmail.com**
+- 📫 Reach me at **vj.janushankan1006@gmail.com**
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=Janushankan&label=Profile%20views&color=17684f&style=flat" alt="janushankan" /> </p>
 
